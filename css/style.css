@@ -1,0 +1,22 @@
+.LogoPattern {
+    background-color: rgb(128, 212, 239);
+}
+
+.BottomPage {
+    height: 30px;
+    background-color: rgb(4, 4, 128);
+}
+
+#Title {
+    font-size: 20px;
+}
+
+#Autor {
+    font-size: 5px;
+}
+
+#copyright {
+    color: white;
+    text-align: center;
+    margin: auto;
+}
